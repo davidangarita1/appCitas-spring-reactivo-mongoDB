@@ -11,7 +11,7 @@ import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
 @RestController
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://app-citas-sofka.web.app/")
 public class citasReactivaResource {
 
     @Autowired
