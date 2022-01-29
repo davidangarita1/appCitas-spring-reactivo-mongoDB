@@ -24,3 +24,4 @@ public interface IcitasReactivaService {
 
     String consultarMedico (String id);
 }
+//
